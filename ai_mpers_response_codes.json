@@ -1,0 +1,226 @@
+[
+    {
+        "id": "1",
+        "code": 4000,
+        "status": true,
+        "message": "Doctor added successfuly"
+    },
+    {
+        "id": "2",
+        "code": 4001,
+        "status": false,
+        "message": "Access Denied, You don't have Permission to perform this Action"
+    },
+    {
+        "id": "3",
+        "code": 4002,
+        "status": true,
+        "message": "User with that ID already exists"
+    },
+    {
+        "id": "4",
+        "code": 4003,
+        "status": true,
+        "message": "Pharmacist added successfuly"
+    },
+    {
+        "id": "5",
+        "code": 9004,
+        "status": true,
+        "message": "patient added successfuly"
+    },
+    {
+        "id": "6",
+        "code": 9005,
+        "status": true,
+        "message": "Success"
+    },
+    {
+        "id": "7",
+        "code": 9006,
+        "status": false,
+        "message": "Duplicate Record. Saved data is already exist"
+    },
+    {
+        "id": "8",
+        "code": 9007,
+        "status": false,
+        "message": "Improper user input supplied. Make sure you supplied the correct inputs data"
+    },
+    {
+        "id": "9",
+        "code": 9008,
+        "status": false,
+        "message": "Record not found"
+    },
+    {
+        "id": "10",
+        "code": 9009,
+        "status": false,
+        "message": "Cant query your data. You need to provide the mandatory filters"
+    },
+    {
+        "id": "11",
+        "code": 9010,
+        "status": false,
+        "message": "No approval flow or flow stage configured for this operation"
+    },
+    {
+        "id": "12",
+        "code": 9011,
+        "status": true,
+        "message": "User registered successfully"
+    },
+    {
+        "id": "13",
+        "code": 9012,
+        "status": false,
+        "message": "User has no department"
+    },
+    {
+        "id": "14",
+        "code": 9013,
+        "status": false,
+        "message": "farmer has no io"
+    },
+    {
+        "id": "15",
+        "code": 9014,
+        "status": false,
+        "message": "Crop has no catalogue"
+    },
+    {
+        "id": "16",
+        "code": 9015,
+        "status": false,
+        "message": "Invalid Nida Number"
+    },
+    {
+        "id": "17",
+        "code": 9016,
+        "status": false,
+        "message": "scheme size doesn't match scheme group"
+    },
+    {
+        "id": "18",
+        "code": 9019,
+        "status": false,
+        "message": "Farm size is grater than the total area "
+    },
+    {
+        "id": "19",
+        "code": 9020,
+        "status": false,
+        "message": "Two chairman already exits"
+    },
+    {
+        "id": "20",
+        "code": 9021,
+        "status": false,
+        "message": "Phone number should start with 255"
+    },
+    {
+        "id": "21",
+        "code": 9022,
+        "status": false,
+        "message": "User has no Region"
+    },
+    {
+        "id": "22",
+        "code": 9023,
+        "status": false,
+        "message": "User has no District"
+    }
+    ,
+    {
+        "id": "23",
+        "code": 9024,
+        "status": false,
+        "message": "Activate crop season first"
+    },
+    {
+        "id": "24",
+        "code": 9025,
+        "status": false,
+        "message": "user has no scheme"
+    },
+    {
+        "id": "25",
+        "code": 9026,
+        "status": false,
+        "message": "Cant start season Because scheme is Inactive or not Approved"
+    },
+    {
+        "id": "26",
+        "code": 9027,
+        "status": false,
+        "message": "A farmer with That nida number Already Exits"
+    },
+    {
+        "id": "27",
+        "code": 9028,
+        "status": false,
+        "message": "Io should have at least 15 farmers"
+    },
+    {
+        "id": "28",
+        "code": 9029,
+        "status": false,
+        "message": "cultivated area is greater than farm size"
+    },
+    {
+        "id": "29",
+        "code": 9030,
+        "status": false,
+        "message": "This application has already been processed"
+    },
+    {
+        "id": "30",
+        "code": 9031,
+        "status": false,
+        "message": "The region of The IO is not the same as That of the Scheme"
+    } ,
+    {
+        "id": "31",
+        "code": 9032,
+        "status": false,
+        "message": "The District of The IO is not the same as That of the Scheme"
+    } ,
+    {
+        "id": "32",
+        "code": 9033,
+        "status": false,
+        "message": "Io should have at least 3 Leaders"
+    } ,
+    {
+        "id": "33",
+        "code": 9034,
+        "status": false,
+        "message": "This scheme is not Active"
+    } ,
+    {
+        "id": "34",
+        "code": 9035,
+        "status": false,
+        "message": "No user profile found"
+    } ,
+    {
+        "id": "35",
+        "code": 6000,
+        "status": false,
+        "message": "Game creation fail"
+    },
+    {
+        "id": "36",
+        "code": 6001,
+        "status": true,
+        "message": "Game creation success"
+    },
+    {
+        "id": "37",
+        "code": 6002,
+        "status": false,
+        "message": "You have already joined the game"
+    }
+
+]
